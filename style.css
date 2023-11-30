@@ -20,9 +20,6 @@ background-color: rgb(230, 123, 224);
     border-radius: 10px;
 }
 
-.titulo-principal {
-    padding-left: 20px;
-}
 .titulo-centralizado {
    text-align: center;
 }
@@ -39,14 +36,8 @@ em strong {
     font-style: italic;
 }
 
-ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
 
-h1{
+h2{
 font-size: 50px;
 text-align: center;
 color: rgb(197, 86, 11))
@@ -64,5 +55,6 @@ color: rgb(20, 20, 20);
     padding: 5px;
     border: 8px solid white;
     border-radius: 10px;
+    text-align: center;
 
 }
